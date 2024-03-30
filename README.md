@@ -14,8 +14,13 @@
   ## Installation
     mysql2
     express
+    dotenv
+    sequelize
 
   ## Usage
+  Here is a link to the app deployed on Heroku: [https://ku-tech-blog-fdd0ddb3f89b.herokuapp.com/]
+  Here is a link to the GitHub repo: [https://github.com/aejantz2015/Tech-blog]
+
   ![Screenshot](./assets/Screenshot.png)
   ![Screenshot](./assets/Screenshot1.png)
 
